@@ -32,12 +32,6 @@ This project includes authentication, multiple routes, and a collection of cours
 - **React Router Dom**
 - **React Bootstrap**
 - **SweetAlert2** (for modals & alerts)
-
----
-
-## 📷 Screenshots  
-> *(Add some images of your project here)*  
-
 ---
 
 ## ⚙️ Installation & Setup  
