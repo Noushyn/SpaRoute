@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SpaRoute/static/css/main.7fab3f56.css",
+    "main.js": "/SpaRoute/static/js/main.c6ba4567.js",
+    "static/media/Lalezar.ttf": "/SpaRoute/static/media/Lalezar.241ca811c53de4ed36a4.ttf",
+    "static/media/Yekan.ttf": "/SpaRoute/static/media/Yekan.012789e6e9f8b9a4929f.ttf",
+    "static/media/programming.png": "/SpaRoute/static/media/programming.967591988ad6e77d2242.png",
+    "index.html": "/SpaRoute/index.html",
+    "main.7fab3f56.css.map": "/SpaRoute/static/css/main.7fab3f56.css.map",
+    "main.c6ba4567.js.map": "/SpaRoute/static/js/main.c6ba4567.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fab3f56.css",
+    "static/js/main.c6ba4567.js"
+  ]
+}
